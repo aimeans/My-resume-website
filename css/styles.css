@@ -39,6 +39,7 @@ h3{
   
 }
 .bottom-container{
+   background-color:rgb(49, 207, 215) ;
 
 }
 
@@ -58,6 +59,79 @@ h3{
    right: 500px;
    
 }
-.profile{}
+.skill-row{
+   width: 50%;
+   margin: 70px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+
+ 
+}
+
+.workingimg{
+   width: 25%;
+   float: left;
+   padding: 30px;
+}
+
+.snowboarderimg{
+   width: 25%;
+   float: right;
+   padding: 20px;
+   
+}
+
+.contact-me{
+   color: rgb(40, 190, 198);
+}
+.touch{
+   padding: 10px;
+}
+
+.touch2{
+   padding: 10px;
+   color: #2980b9;
+}
+
+.touch3{
+   color: black;
+   font-family: 'Montserrat', sans-serif;
+   padding-bottom:50px;
+   
+}
+
+.btn {
+   background: #22bcd0;
+   background-image: -webkit-linear-gradient(top, #34e0c3, #2980b9);
+   background-image: -moz-linear-gradient(top, #34e0c3, #2980b9);
+   background-image: -ms-linear-gradient(top, #34e0c3, #2980b9);
+   background-image: -o-linear-gradient(top, #34e0c3, #2980b9);
+   background-image: linear-gradient(to bottom, #34e0c3, #2980b9);
+   -webkit-border-radius: 60;
+   -moz-border-radius: 60;
+   border-radius: 60px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: #ffffff;
+   font-size: 24px;
+   padding: 20px 20px 20px 20px;
+   text-decoration: none;
+
+ }
+ 
+ .btn:hover {
+   background: #3cb0fd;
+   background-image: -webkit-linear-gradient(top, #3cb0fd, #fc1c1c);
+   background-image: -moz-linear-gradient(top, #3cb0fd, #fc1c1c);
+   background-image: -ms-linear-gradient(top, #3cb0fd, #fc1c1c);
+   background-image: -o-linear-gradient(top, #3cb0fd, #fc1c1c);
+   background-image: linear-gradient(to bottom, #3cb0fd, #fc1c1c);
+   text-decoration: none;
+ }
+
+.footer-link{
+   color:rgb(14, 15, 15) ;
+   font-family:'Montserrat', sans-serif;
+   
+}
 
 /********************ID SELECTORS********************/
